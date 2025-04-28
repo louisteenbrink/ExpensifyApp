@@ -1,7 +1,6 @@
 ---
 title: Expensify Plan Types and Pricing
 description: An overview of Expensify's plan types and pricing
-description: An overview of plan types and pricing
 ---
 
 Expensify offers flexible pricing plans designed to suit different business sizes and needs, whether you’re self-employed, part of a large organization, or somewhere in between.
