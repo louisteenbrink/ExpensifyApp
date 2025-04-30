@@ -1,11 +1,8 @@
 # Table of contents
 
 * [Expensify Classic](README.md)
-  * [Credit Cards](expensify-classic/connect-credit-cards/README.md)
-    * [Connect Personal Credit Cards](expensify-classic/connect-credit-cards/Connect-Personal-Credit-Cards.md)
-    * [Manage Company Credit Cards in Expensify](expensify-classic/connect-credit-cards/Manage-Company-Cards.md)
-    * [Reconcile Company Card Expenses](expensify-classic/connect-credit-cards/Reconcile-Company-Card-Expenses.md)
-    * [Troubleshooting Company Cards](expensify-classic/connect-credit-cards/Troubleshooting-Company-Cards.md)
+  * [Connect Personal Credit Cards](expensify-classic/connect-personal-credit-cards.md)
+  * [Credit Cards](expensify-classic/connect-credit-cards.md)
   * [connections](expensify-classic/connections/README.md)
     * [How to Use the ADP Integration](expensify-classic/connections/Connect-to-ADP.md)
     * [Integrate Deel and Expensify](expensify-classic/connections/Deel.md)
@@ -174,6 +171,9 @@
       * [Reimburse Australian reports](expensify-classic/bank-accounts-and-payments/payments/Reimburse-Australian-Reports.md)
       * [Reimburse Reports](expensify-classic/bank-accounts-and-payments/payments/Reimburse-Reports.md)
       * [Invoice Payments](expensify-classic/bank-accounts-and-payments/payments/Send-and-Pay-Invoices.md)
+  * [Reconcile Company Card Expenses](expensify-classic/reconcile-company-card-expenses.md)
+  * [Troubleshooting Company Cards](expensify-classic/troubleshooting-company-cards.md)
+  * [Manage Company Credit Cards in Expensify](expensify-classic/manage-company-cards.md)
 * [new-expensify](new-expensify/README.md)
   * [billing-and-subscriptions](new-expensify/billing-and-subscriptions/README.md)
     * [Manage Expensify Subscription](new-expensify/billing-and-subscriptions/Add-a-payment-card-and-view-your-subscription.md)
